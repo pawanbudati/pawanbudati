@@ -36,7 +36,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pawanbudati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawanbudati" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/pawan11221u"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pawanbudati" /></a></p><br><br>
 
 <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbudati&layout=compact&theme=dark" alt=pawanbudati />
