@@ -2,8 +2,8 @@
 
 - 💬 Ask me about **Java, Spring Boot and ReactJS**
 - 📫 How to reach me **pawan1122143@gmail.com**
-- 👨‍💻 Know about me **https://pawanbudati.github.io/portfolio/**
-- 📄 Know about my experiences **[Pavan's Resume](https://pawanbudati.github.io/portfolio/assets/Pavan_Kumr_Budati_Resume-pFO7t2TF.pdf)**
+- 👨‍💻 Know about me **https://pawanbudati.github.io**
+- 📄 Know about my experiences **[Pavan's Resume](https://pawanbudati.github.io/Pavan_Kumr_Budati_Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <div> <a href="https://twitter.com/pawanbudati" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
